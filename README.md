@@ -1,4 +1,4 @@
-# Machine-Learning-with-RandPython
+# Machine Learning by R and Python
  ML by R & Python
 
 ## 1. K-Nearest Neight
