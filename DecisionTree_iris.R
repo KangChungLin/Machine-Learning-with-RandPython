@@ -36,7 +36,7 @@ prp(DT)
 predictions<-predict(DT,iris.test[,1:4], type="class")
 
 # Evaluate the predictions
-table(predictions)
+table(predictions,iris.test[,5])
 
 # Confusion matrix 
 confusionMatrix(predictions,iris.test[,5])

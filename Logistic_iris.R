@@ -22,7 +22,7 @@ logistic_mod = train(
 predictions<-predict.train(object=logistic_mod,iris.test[,1:4], type="raw")
 
 # Evaluate the predictions
-table(predictions)
+table(predictions,iris.test[,5])
 
 # Confusion matrix 
 confusionMatrix(predictions,iris.test[,5])
