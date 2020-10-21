@@ -11,3 +11,7 @@
 ## 3. Decision Tree
 * [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/DecisionTree_iris.ipynb)
 * [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/DecisionTree_iris.R)
+
+## 4. Naive Bayes
+* [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/NaiveBayes_iris.ipynb)
+* [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/NaiveBayes_iris.R)
