@@ -15,3 +15,7 @@
 ## 4. Naive Bayes
 * [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/NaiveBayes_iris.ipynb)
 * [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/NaiveBayes_iris.R)
+
+## 5. Random Forests
+* [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/RndomForest_iris.ipynb)
+* [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/RandomForest_iris.R)
