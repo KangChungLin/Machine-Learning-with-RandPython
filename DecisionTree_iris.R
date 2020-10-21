@@ -22,7 +22,8 @@ iris.training <- iris[index,]
 iris.test <- iris[-index,]
 
 # Train a model
-DT<-rpart(Species ~ ., data = iris.training)
+# split = "information" or "gini"
+DT<-rpart(Species ~ ., data = iris.training, parms = list(split = "information"))
 
 # plot result
 plot(DT)
