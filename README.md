@@ -1,5 +1,5 @@
 # Machine Learning by R and Python
-使用R或Python進行機器學習
+使用R或Python進行機器學習\n
 主要使用的資料為鳶尾花資料集(iris dataset)，資料集將鳶尾花分為三類，並有四個特徵值，分別為花萼(sepal)長寬、花瓣(petal)長寬
  
 ## 1. Logistic Regression
