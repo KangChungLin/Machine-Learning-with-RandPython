@@ -13,6 +13,7 @@
 * [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/KNN_iris.R)
 
 ## 3. Decision Tree
+![image](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/tree.png)
 * [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/DecisionTree_iris.ipynb)
 * [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/DecisionTree_iris.R)
 
