@@ -26,3 +26,7 @@
 ![image](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/forest.png)
 * [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/RndomForest_iris.ipynb)
 * [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/RandomForest_iris.R)
+
+## 辨別圖片上的數字(簡易版)
+圖片皆為黑白照片，將圖片平均分成十六個區域，計算每個區域有幾個像素為黑色(如下圖)。
+![image](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/number_pic.jpg)
