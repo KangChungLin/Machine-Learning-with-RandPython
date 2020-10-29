@@ -3,6 +3,7 @@
 主要使用的資料為鳶尾花資料集(iris dataset)，資料集將鳶尾花分為三類，並有四個特徵值，分別為花萼(sepal)長寬、花瓣(petal)長寬
  
 ## 1. Logistic Regression
+![image](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/logistic.png)
 * [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/Logistic_iris.ipynb)
 * [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/Logistic_iris.R)
  
