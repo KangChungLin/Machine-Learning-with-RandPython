@@ -8,6 +8,7 @@
 * [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/Logistic_iris.R)
  
 ## 2. K-Nearest Neighbor
+![image](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/KNN.png)
 * [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/KNN_iris.ipynb)
 * [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/KNN_iris.R)
 
