@@ -30,6 +30,7 @@
 ## 辨別圖片上的數字(簡易版)
 圖片皆為黑白照片，將圖片平均分成十六個區域，計算每個區域有幾個像素為黑色(如下圖)。
 ![image](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/number_pic.jpg)
-因此可以得到每張圖片有16個特徵值，將特徵值依序排列形成一維陣列。接著將每張圖片的特徵值全部合併起來，形成二維陣列，每一列(row)為一張圖片的特徵值。\
+因此可以得到每張圖片有16個特徵值，將特徵值依序排列形成一維陣列。接著將每張圖片的特徵值全部合併起來，形成二維陣列，每一列(row)為一張圖片的特徵值(如下圖)。
+![image](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/picToNum.jpg)
 將圖片轉換成數值陣列即可使用機器學習中的分類方法，本次使用KNN進行分類。
 * [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/simple_classify_number.ipynb)
