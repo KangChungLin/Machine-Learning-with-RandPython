@@ -38,3 +38,6 @@
 \
 將圖片轉換成數值陣列即可使用機器學習中的分類方法，本次使用KNN進行分類。
 * [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/simple_classify_number.ipynb)
+
+使用deeping learning進行手寫數字辨識
+* [Python(Keras)](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/mnist.ipynb)
