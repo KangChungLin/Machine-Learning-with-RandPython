@@ -27,6 +27,10 @@
 * [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/RndomForest_iris.ipynb)
 * [R](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/RandomForest_iris.R)
 
+## Regression
+預測波士頓房價，資料來源:https://www.kaggle.com/vikrishnan/boston-house-prices
+* [Python](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/boston.ipynb)
+
 ## 辨別圖片上的數字(簡易版)
 圖片皆為黑白照片，將圖片平均分成十六個區域，計算每個區域有幾個像素為黑色(如下圖)。
 ![image](https://github.com/KangChungLin/Machine-Learning-with-RandPython/blob/master/number_pic.jpg)
